@@ -1,4 +1,4 @@
 -  Hello, I’m @paperlaika
--  I’m interested in ... practicing and mastering the problem-solving art of coding
--  I’m currently learning ... GIT to be prepared to efficiently merge in a workforce with an intent to learn JavaScript (React, Typescript, Angular and Vue) & Phython.
+-  I’m interested in practicing and mastering the problem-solving art of coding
+-  I’m currently learning GIT to be prepared to efficiently merge in a workforce with an intent to learn JavaScript (React, Typescript, Angular and Vue) & Phython.
 -  To reach me, please email paperlaika@gmail.com
